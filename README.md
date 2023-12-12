@@ -48,4 +48,7 @@ This project focuses on sentiment analysis of tweets using machine learning tech
 2. Run the Jupyter Notebook `sentiment_analysis.ipynb` for detailed code execution.
 3. Explore the generated word cloud images in the `wordclouds/` directory.
 
+## Video Link (View Only Access)
+https://drive.google.com/file/d/1oQL1G-XGXoWjSf2JOXOHc71A6Us2RTYs/view?usp=drive_link
+
 
